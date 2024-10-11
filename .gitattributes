@@ -1,4 +1,6 @@
 *.html linguist-language=ignore
 *.css linguist-language=ignore
-*.js linguist-language=ignore
-*.react linguist-detectable=true
+*.js linguist-language=react
+*.jsx linguist-language=react
+
+

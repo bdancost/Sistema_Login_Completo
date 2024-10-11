@@ -1,6 +1,6 @@
 *.html linguist-language=ignore
 *.css linguist-language=ignore
-*.js linguist-language=true
+*.js linguist-detectable=true
 
 
 
